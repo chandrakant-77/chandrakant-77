@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chandrakant Pawar</h1>
-<h3 align="center">A passionate Web developer.</h3>
 
-- 🌱 I’m currently learning **NextJS**
-
-- 👯 I’m looking to collaborate on **Mern Stack Projects**
 
 - 📫 How to reach me **crpawar2003@gmail.com**
 
