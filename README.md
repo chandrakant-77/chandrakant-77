@@ -9,4 +9,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandrakant-77&show_icons=true&locale=en" alt="chandrakant-77" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandrakant-77&" alt="shrived00" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandrakant-77&" alt="Chandrakant" /></p>
